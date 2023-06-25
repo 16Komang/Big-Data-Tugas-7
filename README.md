@@ -1,10 +1,7 @@
 # Big-Data-Tugas-7
-# ml_recommender.scala
+# slide 30
 ![Screenshot](images/scala.png)
 ![Screenshot](images/scala2.png)
-# movie_recommendations.py
-![Screenshot](images/py.png)
-![Screenshot](images/py2.png)
 # slide 48
 ![Screenshot](images/slide48.png)
 # slide 49
